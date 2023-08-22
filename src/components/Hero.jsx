@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="flex space-x-4">
           <button
             type="button"
-            onClick={() => window.open("https://github.com/educationalgamer")}
+            onClick={() => window.open("https://github.com/Manvi2002")}
             className="black_btn"
           >
             GitHub
@@ -18,7 +18,7 @@ const Hero = () => {
             type="button"
             onClick={() =>
               window.open(
-                "https://www.linkedin.com/in/anshu-nishad/"
+                "https://www.linkedin.com/in/manvi-agrawal/"
               )
             }
             className="blue_btn"
@@ -30,7 +30,7 @@ const Hero = () => {
 
       <h1 className="head_text">
         Summerize Articles with <br className="max-md:hidden " />
-        <span className="orange_gradient">OpenAI GPT-4</span>
+        <span className="orange_gradient">Rapid-API</span>
       </h1>
       <h2 className="desc">
         Simplify your reading with{" "}
@@ -42,7 +42,7 @@ const Hero = () => {
           <br />
           The summerized data will display below.
           <br />
-          <span className="orange_gradient">Sumz </span> can take 3-10 seconds
+          <span className="orange_gradient">Sumz </span> can take 5-15 seconds
           to finalize.
         </p>
       </h2>
